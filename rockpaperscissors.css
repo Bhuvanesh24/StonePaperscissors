@@ -2,7 +2,17 @@ body{
     background-color: rgb(25, 25, 25);
     color: white;
     font-family: Arial;
-        }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    }
+    div{
+      display: block;
+      justify-content: center;
+      align-items: center;
+    }
         .title{
           font-size: 30px;
           font-weight: bold;
